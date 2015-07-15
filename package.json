@@ -1,0 +1,14 @@
+{
+  "name": "watchdog-server",
+  "version": "1.0.0",
+  "description": "Server for watchdog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Caputo",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.8.0"
+  }
+}
